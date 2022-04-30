@@ -1,0 +1,12 @@
+body {
+    background-image: url("images/SunSet.png");
+}
+
+div.center {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    backdrop-filter: blur(5px);
+    background-color: rgba(25, 25, 25, 0.5);
+    height: 100vh;
+}
